@@ -11,6 +11,8 @@
 		90370AF42B9FCE0A0037347B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90370AF32B9FCE0A0037347B /* ContentView.swift */; };
 		90370AF62B9FCE0C0037347B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 90370AF52B9FCE0C0037347B /* Assets.xcassets */; };
 		90370AF92B9FCE0C0037347B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 90370AF82B9FCE0C0037347B /* Preview Assets.xcassets */; };
+		90370B002B9FCEE30037347B /* AddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90370AFF2B9FCEE30037347B /* AddView.swift */; };
+		90370B022BA000060037347B /* TaskDescription.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90370B012BA000060037347B /* TaskDescription.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		90370AF32B9FCE0A0037347B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		90370AF52B9FCE0C0037347B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		90370AF82B9FCE0C0037347B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		90370AFF2B9FCEE30037347B /* AddView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddView.swift; sourceTree = "<group>"; };
+		90370B012BA000060037347B /* TaskDescription.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskDescription.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				90370AF12B9FCE0A0037347B /* HabitTrackingAppApp.swift */,
 				90370AF32B9FCE0A0037347B /* ContentView.swift */,
+				90370AFF2B9FCEE30037347B /* AddView.swift */,
+				90370B012BA000060037347B /* TaskDescription.swift */,
 				90370AF52B9FCE0C0037347B /* Assets.xcassets */,
 				90370AF72B9FCE0C0037347B /* Preview Content */,
 			);
@@ -139,6 +145,8 @@
 			files = (
 				90370AF42B9FCE0A0037347B /* ContentView.swift in Sources */,
 				90370AF22B9FCE0A0037347B /* HabitTrackingAppApp.swift in Sources */,
+				90370B002B9FCEE30037347B /* AddView.swift in Sources */,
+				90370B022BA000060037347B /* TaskDescription.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
